@@ -1,0 +1,18 @@
+{
+  "expenseList": [
+    {
+      "name": "Netflix",
+      "value": 30.0
+    },
+    {
+      "name": "Water",
+      "value": 50.0
+    },
+    {
+      "name": "Internet",
+      "value": 90.0
+    }
+  ],
+  "name": "Average_BudgetList",
+  "budget": 250.0
+}
