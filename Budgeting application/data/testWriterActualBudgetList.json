@@ -1,0 +1,14 @@
+{
+    "name": "MyList",
+    "expenseList": [
+        {
+            "name": "Food",
+            "value": 40
+        },
+        {
+            "name": "Gas",
+            "value": 70
+        }
+    ],
+    "budget": 2000
+}
